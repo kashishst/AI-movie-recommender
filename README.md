@@ -41,7 +41,7 @@ An AI-based movie recommendation system that suggests movies based on user prefe
 - TensorFlow / Keras (Neural Network)
 
 ---
-
+## 📂 Project Structure
 project/
 │── model.py # ML model & recommendation logic
 │── app.py # Flask API
@@ -54,4 +54,5 @@ project/
 ├── src/App.js # React UI
 └── App.css
 
-## 📂 Project Structure
+
+
